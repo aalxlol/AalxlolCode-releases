@@ -7,8 +7,9 @@ list. This repository does not contain source code.
 
 # Developed By Aalxlol
 
-Discord : @csixu
-Instagram : alexs.app
+- Discord : @csixu
+
+- Instagram : alexs.app
 
 The current Windows installer is not code-signed yet, so SmartScreen may show a
 warning on first launch.
